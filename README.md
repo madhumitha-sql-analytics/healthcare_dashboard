@@ -1,4 +1,4 @@
-![Healthcare Dashboard](healthcare_dashboard.png)
+![Healthcare Dashboard](Healthcare_dashboard.png)
 Tools Used
 • Power BI
 • Data Visualization
